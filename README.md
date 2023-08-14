@@ -1,1 +1,1 @@
-### Operationlising Machine Learning 🙇🏻‍♂️
+### Operationalising Machine Learning 🙇🏻‍♂️
